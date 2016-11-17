@@ -1,0 +1,12 @@
+2016-11-17T10:43:43+08:00 INFO Home path: [/Users/kira/gopackage/src/github.com/kira8565/multilinebeat] Config path: [/Users/kira/gopackage/src/github.com/kira8565/multilinebeat] Data path: [/Users/kira/gopackage/src/github.com/kira8565/multilinebeat/data] Logs path: [/Users/kira/gopackage/src/github.com/kira8565/multilinebeat/logs]
+2016-11-17T10:43:43+08:00 INFO Setup Beat: multilinebeat; Version: 6.0.0-alpha1
+2016-11-17T10:43:43+08:00 INFO Max Retries set to: 3
+2016-11-17T10:43:43+08:00 INFO Activated logstash as output plugin.
+2016-11-17T10:43:43+08:00 INFO Publisher name: kiras-MBP.lan
+2016-11-17T10:43:43+08:00 INFO Flush Interval set to: 1s
+2016-11-17T10:43:43+08:00 INFO Max Bulk Size set to: 2048
+2016-11-17T10:43:43+08:00 INFO multilinebeat start running.
+2016-11-17T10:43:43+08:00 INFO multilinebeat is running! Hit CTRL-C to stop it.
+2016-11-17T10:43:47+08:00 INFO Total non-zero values: 
+2016-11-17T10:43:47+08:00 INFO Uptime: 3.273524644s
+2016-11-17T10:43:47+08:00 INFO multilinebeat stopped.

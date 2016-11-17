@@ -1,0 +1,11 @@
+################### Multilinebeat Configuration Example #########################
+
+############################# Multilinebeat ######################################
+
+multilinebeat:
+  # Defines how often an event is sent to the output
+  period: 1s
+  listenport: "9999"
+  groupkey: ""
+  multilineregx: "\n"
+  messagefiledkey: "message"
